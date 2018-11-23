@@ -9,8 +9,13 @@ Some of the results from using these stimuli were included in our SfN 2018 poste
 
 
 ## The Monet Stimulus
-https://vimeo.com/249686342
+The Monet stimulus comprises smoothened Gaussian noise with coherent orientation and motion in various directions. 
+A sample of the stimulus can be found here: https://vimeo.com/249686342
+
 
 
 ## The Trippy stimulus
-https://vimeo.com/249683927/
+The Trippy stimulus comprises irregular fluid ripples wriggling randomly across the visual field; they are synthesized as the cosine of a smooth Guassian noise movie.
+
+A sample of the stimulus can be found here here: https://vimeo.com/249683927
+
